@@ -5,6 +5,8 @@
 
 Section 5 of Udemey's 'Unreal Engine Developer Course'
 
+https://www.udemy.com/unrealcourse/
+
 ### How do I get set up? ###
 
 This version is in 4.16.x as UE4 under 4.16 will not compile with Visual Studio 2017
