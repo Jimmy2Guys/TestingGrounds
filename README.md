@@ -15,15 +15,15 @@ https://www.udemy.com/unrealcourse/
 
 3. Download the .zip file from:
 
-4. https://github.com/Jimmy2Guys/TestingGrounds
+	https://github.com/Jimmy2Guys/TestingGrounds
 
-5. Unzip into an empty directory.
+4. Unzip into an empty directory.
 
-6. Doubleclick on TestingGrounds.uproject
+5. Doubleclick on TestingGrounds.uproject
 
-7. Let Unreal Engine rebuild missing files
+6. Let Unreal Engine rebuild missing files
 
-8. Enjoy
+7. Enjoy
 
 
 *This version is in 4.16.x as UE4 under 4.16 will not compile with Visual Studio 2017*
